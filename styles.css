@@ -1,7 +1,7 @@
 /* Make sure to always put semi colon to close out parameters. Custom varibles were not working due to no closing semi colon */
 :root {
     --primary-color: #f8fafc;
-    --secondary-color: #d1d5dbd5;
+    --secondary-color: #d1d5dbe7;
     --bg-color: #000000;
 }
 
