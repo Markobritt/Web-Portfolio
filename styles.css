@@ -155,7 +155,7 @@ section {
 .projectItem {
     display: flex;
     align-items: stretch;
-    gap: 24px;
+    gap: 14px;
 }
 
 .projectItem > div:first-child {
